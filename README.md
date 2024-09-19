@@ -38,9 +38,7 @@ These are some functionaltites which provided by our website.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Thank You , Hope you like the project
-Regards
-Manish Sharma
+Thank You 
 
 
 
